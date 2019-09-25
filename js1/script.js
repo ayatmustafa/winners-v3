@@ -223,7 +223,7 @@ var scrollbtn =$("#stop");
 						});
 							})
 
-$(".navbar a , sliderTop a").click(function(){
+$(".navbar a , .sliderTop a").click(function(){
 
 let aHref =$(this).attr("href");
 
